@@ -14,6 +14,7 @@
 		C98CACAB2833285E00CCBF88 /* ArtBook.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C98CACA92833285E00CCBF88 /* ArtBook.xcdatamodeld */; };
 		C98CACAD2833285F00CCBF88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C98CACAC2833285F00CCBF88 /* Assets.xcassets */; };
 		C98CACB02833285F00CCBF88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C98CACAE2833285F00CCBF88 /* LaunchScreen.storyboard */; };
+		C98CACB82833294300CCBF88 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98CACB72833294300CCBF88 /* DetailsVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		C98CACAC2833285F00CCBF88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C98CACAF2833285F00CCBF88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C98CACB12833285F00CCBF88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C98CACB72833294300CCBF88 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				C98CACA02833285E00CCBF88 /* AppDelegate.swift */,
 				C98CACA22833285E00CCBF88 /* SceneDelegate.swift */,
 				C98CACA42833285E00CCBF88 /* ViewController.swift */,
+				C98CACB72833294300CCBF88 /* DetailsVC.swift */,
 				C98CACA62833285E00CCBF88 /* Main.storyboard */,
 				C98CACAC2833285F00CCBF88 /* Assets.xcassets */,
 				C98CACAE2833285F00CCBF88 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				C98CACA12833285E00CCBF88 /* AppDelegate.swift in Sources */,
 				C98CACAB2833285E00CCBF88 /* ArtBook.xcdatamodeld in Sources */,
 				C98CACA32833285E00CCBF88 /* SceneDelegate.swift in Sources */,
+				C98CACB82833294300CCBF88 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
